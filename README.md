@@ -66,8 +66,16 @@ which ever one you like best!
 1.  Unzip and rename the template directory.
 1.  Empty [`README.md`](README.md) and fill with your own content.
 1.  Move into the new project and `git init`.
-1.  Follow the instructions here: [documentation](https://pages.github.com/)
-1.  Use gh repository as the remote for your portfolio
+1.  Create a Github repository as the remote for your portfolio
+1.  Deploy on [GH pages](https://pages.github.com/) as account User Site
+
+## GH Pages
+
+#### Portfolio
+You can only host 1 "User Site" per account/organization on the URL `username.github.io` so you are using that as your portfolio since it will be the showcase of the rest of the projects on your GH account.  Read more about [User Sites here](https://help.github.com/articles/user-organization-and-project-pages/#project-pages)
+
+#### Projects
+GH allows you to host other web sites as “Project Sites” which can be on the URLs `username.github.io/project_names`. You will have 4 projects which you will launch as “Project Sites” and you can have an unlimited number of those, we hope you add more than 4 after the program!  Read more about [Project Sites here](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages)
 
 ## A Quick Note on Technology
 
@@ -87,7 +95,11 @@ Outcomes. If your question is "Is it appropriate to put a photo of me passed out
 
 ## Additional Resources
 
--   Other WDI Grads's Portfolios:
+Other WDI Grads's Portfolios:
+  -  https://derekbmcintire.github.io
+  -  http://julianbarthold.com/
+  -  https://andrewinnocent.com/
+  -  https://nd56.github.io/ND-Portfolio/
   -  http://rhjones.me/
   -  http://gabescarbrough.com/
   -  https://nriser.github.io/portfolio/
