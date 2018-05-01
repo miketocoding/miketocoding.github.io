@@ -66,8 +66,9 @@ which ever one you like best!
 1.  Unzip and rename the template directory.
 1.  Empty [`README.md`](README.md) and fill with your own content.
 1.  Move into the new project and `git init`.
-1.  Follow the instructions here: [documentation](https://pages.github.com/)
-1.  Use gh repository as the remote for your portfolio
+1.  Create a Github repository as the remote for your portfolio
+1.  Deploy on [gh-pages](https://pages.github.com/)
+
 
 ## A Quick Note on Technology
 
