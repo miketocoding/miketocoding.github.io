@@ -55,6 +55,7 @@ it in digest form, making it easier for future employers to learn more about you
 Your projects should be featured prominently on your portfolio.  You'll want future employers to see what you accomplished both while you were at GA and after completing this program.
 
 - **List projects in reverse chronological order.**  Your capstone is likely the project that best showcases your skills.  Make sure it's featured prominently as the first project in your portfolio.
+- For your team project, be sure to fork, clone, and individually redeploy your project to maintain individual ownership over the site showcased on your portfolio.
 - Include links to your live site as well as front-end and back-end repos.
 - Summarize the functionality of the app as well as what technologies you used to build it.
 - Briefly describe your process for building each app. If you have a blog post that goes into detail for each project, link to that post.
