@@ -86,6 +86,8 @@ To deploy your portfolio, you'll only need to push to your **User Site** reposit
 
 ### Github “User Site” vs. “Project Sites”
 
+[Link to github pages](https://pages.github.com/)
+
 Github provides only ***one*** “User Site” per account/organization with the url `username.github.io`. Your user site should be used for your portfolio since it will showcase the rest of your projects on Github. The user site is unique in that it is served from the `master` branch of your repository. Read more about [User Sites here](https://help.github.com/articles/user-organization-and-project-pages/#project-pages).
 
 Other web apps/sites you host on Github are known as “Project Sites”. These will have URLs in the form of `username.github.io/project_names` and are served from the `gh-pages` branch of your repository. You can have an unlimited number of project sites.  At the conclusion of this program, you'll have at least four —  one for each of your projects — but we hope you develop many more!  Read more about [Project Sites here](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages).
