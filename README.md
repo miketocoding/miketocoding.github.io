@@ -1,24 +1,12 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Portfolio Template
+# Portfolio Guide
 
-Use this template and guide to build your portfolio.
+## Requirements
 
-## Objectives
-
-By the end of this, developers should be able to:
-
-- Have something to show to potential future employers/recruiters/friends
-- Work on a portfolio and implement more and more features throughout SEI
-
-## Installation
-
-1. [Download](../../archive/master.zip) this template.
-1. Unzip and rename the template directory.
-1. Empty [`README.md`](README.md) and fill with your own content.
-1. Move into the new project and `git init`.
-1. Create a [Github User Site](https://pages.github.com/) repository as the remote for your portfolio.
-1. Push to your user site `master` branch to deploy or update your site.
+1. Watch this [portfolio guide video](https://drive.google.com/drive/folders/1is2Ann-HiMgXL3ydwjeu1s1sDT5Y5gJd)
+1. Read and think about the sections below
+1. You will discuss your portfolios in more detail with outcomes so write down any questions you have about this reading for outcomes discussions
 
 ## Purpose
 
